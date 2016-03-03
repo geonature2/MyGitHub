@@ -10,6 +10,7 @@ function J = dipro_b2r(m)
 %   See also HSV, HOT, PINK, FLAG, COLORMAP, RGBPLOT.
 
 %   Copyright 2003 Seong Kon Lee
+%   Dipro Color scale
 %   $Revision: 1.0 $  $Date: 2003/11/04 17:27:04 $
 
 if nargin < 1
